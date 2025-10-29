@@ -8,7 +8,7 @@ Users can instantly check the **current weather, hourly updates, and 5-day forec
 ## 🌐 Live Demo
 
 🎯 **View App on CodeSandbox:**  
-👉 [https://codesandbox.io/p/sandbox/your-weather-app-link]([https://codesandbox.io/p/sandbox/your-weather-app-link](https://qcqr2v-3000.csb.app/))
+👉 [https://qcqr2v-3000.csb.app/](https://qcqr2v-3000.csb.app/)]([https://codesandbox.io/p/sandbox/your-weather-app-link](https://qcqr2v-3000.csb.app/))
 
 *(Replace the above link with your actual CodeSandbox project URL.)*
 
@@ -42,7 +42,7 @@ This app provides a **clean, fast, and informative dashboard**, helping Jamie pl
 - **Styling:** CSS3 + Transitions  
 - **Icons:** React Animated Weather  
 - **API:** [Open-Meteo Weather API](https://open-meteo.com/)  
-- **Host:** [CodeSandbox](https://codesandbox.io/)  
+- **Host:** [CodeSandbox]([https://codesandbox.io/](https://qcqr2v-3000.csb.app/))  
 
 ---
 
