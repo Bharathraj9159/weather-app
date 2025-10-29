@@ -249,7 +249,7 @@ const App = () => {
         <div className="footer-content">
           <i className="fas fa-handshake footer-icon"></i>
           <p>
-            Developed By <span className="footer-name">Pallavi</span>{" "}
+            Developed By <span className="footer-name">Bharath</span>{" "}
             <span className="heart">💙</span>
           </p>
         </div>
