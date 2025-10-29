@@ -10,8 +10,6 @@ Users can instantly check the **current weather, hourly updates, and 5-day forec
 🎯 **View App on CodeSandbox:**  
 👉 [https://qcqr2v-3000.csb.app/](https://qcqr2v-3000.csb.app/)
 
-*(Replace the above link with your actual CodeSandbox project URL.)*
-
 ---
 
 ## 🚀 Features
